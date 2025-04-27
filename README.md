@@ -1,5 +1,4 @@
-# team_2
-
+# Team 2
 # Critical Care Index (CCI) Dashboard
 
 ## Purpose
