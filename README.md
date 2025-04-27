@@ -1,6 +1,8 @@
 # Team 2
 # Critical Care Index (CCI) Dashboard
 
+![Dashboard](./Dashboard.jpeg)
+
 ## Purpose
 
 This dashboard provides a visual interface for monitoring and analyzing the condition of mock Intensive Care Unit (ICU) patients using a calculated Critical Care Index (CCI). It aims to offer insights into patient acuity trends and the underlying factors contributing to their condition over a 24-hour period.
