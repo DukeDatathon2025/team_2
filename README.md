@@ -30,6 +30,8 @@ The dashboard offers different perspectives on the patient's data through select
 2.  *Detailed View:* Focuses on the individual trajectories of the mock clinical parameters mentioned above, allowing for a more granular look at specific physiological systems over time.
 3.  *Shapley Analysis:* Activated by clicking a point on the Overview chart. This view displays the waterfall chart detailing the contributions to the CCI score for that selected time point, along with a summary of component importance.
 
+https://d405-136-226-53-22.ngrok-free.app/
+
 ## Data Source
 
 This dashboard currently operates using *mock data* generated internally by the ⁠ loadPatientData ⁠ function. This includes synthetic patient demographics, vital signs, calculated CCI scores, and corresponding Shapley values designed to simulate realistic ICU patient scenarios, including different trajectories based on simulated survival outcomes. In a real-world application, this data would be sourced from live hospital systems or clinical databases.
